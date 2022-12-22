@@ -8,3 +8,6 @@ To Run:
 3. Right-click and run each program in separate processes in this order: acctsrv.py, calculator_service.py, and UI.py
     *** Note: acctsrv.py and calculator_service.py must be running for the main program to work as intended.***
 4. For additional help, please refer to the Getting Started.pdf file
+
+
+Collaborators: Christopher Irwin (https://github.com/ircjwin/)
