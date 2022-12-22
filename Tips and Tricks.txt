@@ -1,0 +1,4 @@
+Tips and Tricks
+
+As all files are available locally, you can backup your files by copying the text files into a separate folder and recopying the
+text file contents from the backup files back into its matching text file in order to restore previous data.

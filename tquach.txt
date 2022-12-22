@@ -1,0 +1,5 @@
+{"Beaver Sculpture":[{"materials":{"Clay":"100","Paints":"50"}},{"labor":{"30":"20"}},{"percent_markup":"80"}]}
+{"Bracelet":[{"materials":{"Beads":"30","Wire":"15"}},{"labor":{"1":"20"}},{"percent_markup":"50"}]}
+{"Cup":[{"materials":{"Wholesale Item":"10","None":"0"}},{"labor":{"0":"0"}},{"percent_markup":"50"}]}
+{"Bowl":[{"materials":{"Bowl":"10","None":"0"}},{"labor":{"0":"0"}},{"percent_markup":"50"}]}
+{"Bowl":[{"materials":{"Bowl":"10","None":"0"}},{"labor":{"0":"0"}},{"percent_markup":"50"}]}
